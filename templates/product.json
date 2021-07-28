@@ -80,17 +80,10 @@
         "add_image_padding": false,
         "show_vendor": false
       }
-    },
-    "1627476828051a3803": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
-    "product-recommendations",
-    "1627476828051a3803"
+    "product-recommendations"
   ]
 }
