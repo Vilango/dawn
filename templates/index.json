@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16274765497647a6f3": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -52,6 +46,12 @@
         "show_vendor": false
       }
     },
+    "16274765497647a6f3": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
@@ -88,9 +88,9 @@
     }
   },
   "order": [
-    "16274765497647a6f3",
     "image_banner",
     "featured_products",
+    "16274765497647a6f3",
     "image_text"
   ]
 }
